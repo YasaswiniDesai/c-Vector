@@ -42,3 +42,6 @@ int main() {
     return 0;
 }
 ```
+### Output
+
+![image](https://github.com/YasaswiniDesai/c-Vector/assets/92711164/3505d01c-aa7d-4911-8255-6c68edb9dbc2)
