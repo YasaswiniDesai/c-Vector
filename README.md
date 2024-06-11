@@ -7,7 +7,7 @@
 
 ![image](https://github.com/YasaswiniDesai/c-Vector/assets/92711164/69eaf756-33bb-4c98-b8d7-3f0774551948)
 
-### Basic Vector Coding
+### Basic Vector Coding for separating even and odd numbers
 ```cpp
 #include <iostream>
 #include <vector>
